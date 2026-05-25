@@ -1,0 +1,10 @@
+node_modules/
+
+# IDE configuration
+.idea/
+.vscode/
+
+# VuePress files
+src/.vuepress/.cache/
+src/.vuepress/.temp/
+src/.vuepress/dist/

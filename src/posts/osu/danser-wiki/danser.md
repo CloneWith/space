@@ -2,13 +2,14 @@
 tags:
   - osu!danser
   - guide
+date: 2023-09-22
 order: 3
 comments: true
 ---
 
 # 光标与 Danser
 
-此文章将简述 osu!danser 中光标、物件显示的自定义，以及 cursor dance 中不同模板的运动特性。
+此文章将简述 osu!danser 中光标、物件显示的自定义，以及 cursor dance 中不同模板的运动特性。<!-- more -->
 
 ![冬季背景](./img/seasonal.jpg "osu!danser 的冬季背景")
 

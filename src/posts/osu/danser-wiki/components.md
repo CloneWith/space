@@ -2,13 +2,14 @@
 tags:
   - osu!danser
   - guide
+date: 2023-05-04
 order: 2
 comments: true
 ---
 
 # 组件与配置
 
-此文章将详细讲解 osu!danser 中的一些配置细节，重点在游玩界面的自定义上。
+此文章将详细讲解 osu!danser 中的一些配置细节，重点在游玩界面的自定义上。<!-- more -->
 
 ## osu!danser 中的坐标系 {#Coordinate}
 

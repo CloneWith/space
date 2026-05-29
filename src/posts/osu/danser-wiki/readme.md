@@ -2,8 +2,10 @@
 tags:
   - osu!danser
   - guide
+date: 2023-05-04
 order: 0
-cover: "posts/osu/danser-wiki/img/banner.jpg"
+# TODO: Fix cover
+# cover: "posts/osu/danser-wiki/img/banner.jpg"
 comments: true
 ---
 

@@ -2,13 +2,14 @@
 tags:
   - osu!danser
   - guide
+date: 2023-09-22
 order: 4
 comments: true
 ---
 
 # Knockout 模式
 
-此文章将讲解 Knockout 中的机制与设置，以及其他的东西。
+此文章将讲解 Knockout 中的机制与设置，以及其他的东西。<!-- more -->
 
 ## Knockout 模式 {#knockout}
 

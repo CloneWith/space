@@ -2,6 +2,7 @@
 tags:
   - osu!danser
   - guide
+date: 2023-09-22
 order: 5
 comments: true
 ---
@@ -10,7 +11,7 @@ comments: true
 
 此文章将讲解 osu!danser 主程序与命令行程序的关系，以及如何通过使用 JSON 配置文件与命令行启动 osu!danser 或实现输出视频/图像文件。
 
-这里建议大家去参考 [Wieku 官方仓库的 wiki](https://github.com/Wieku/danser-go/wiki)，Ta 在那里提供了一些详细的技术性信息。
+这里建议大家去参考 [Wieku 官方仓库的 wiki](https://github.com/Wieku/danser-go/wiki)，Ta 在那里提供了一些详细的技术性信息。<!-- more -->
 
 ## 相关链接 {#media}
 

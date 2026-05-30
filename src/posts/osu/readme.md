@@ -2,6 +2,7 @@
 tags:
   - games
   - osu!
+article: false
 ---
 
 # osu!

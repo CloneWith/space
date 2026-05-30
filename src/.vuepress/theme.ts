@@ -44,6 +44,7 @@ export default hopeTheme({
     mark: true,
     mermaid: true,
     plantuml: true,
+    preview: true,
     spoiler: true,
     sub: true,
     sup: true,
@@ -52,6 +53,15 @@ export default hopeTheme({
     vPre: true,
     math: {
       type: "katex",
+    },
+
+    highlighter: {
+      type: "shiki",
+      notationDiff: true,
+      notationErrorLevel: true,
+      notationFocus: true,
+      notationHighlight: true,
+      notationWordHighlight: true,
     },
   },
 
